@@ -12,4 +12,4 @@ service:
   targetPort: 9000
 
 env:
-  name: stage
+  name: prod
